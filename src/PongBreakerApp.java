@@ -1,5 +1,5 @@
 import javax.swing.SwingUtilities;
-/* Pong Breaker */
+/* Pong Breaker. */
 class PongBreakerApp
 {
 
